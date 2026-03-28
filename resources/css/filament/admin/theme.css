@@ -1,0 +1,16 @@
+[dir="rtl"] .fi-sidebar {
+    right: 0;
+    left: auto;
+}
+
+[dir="rtl"] .fi-sidebar-item-label {
+    text-align: right;
+}
+
+[dir="rtl"] .fi-ta-text {
+    text-align: right;
+}
+
+[dir="rtl"] table {
+    direction: rtl;
+}
