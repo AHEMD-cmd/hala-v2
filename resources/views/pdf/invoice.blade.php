@@ -253,6 +253,11 @@
             </tr>
 
             <tr>
+                <td>leveringskosten:</td>
+                <td>€ {{ number_format($invoice->delivery_fee, 2, ',', '.') }}</td>
+            </tr>
+
+            <tr>
                 <td>Te betalen bij levering:</td>
                 <td>€ {{ number_format($invoice->to_be_paid_upon_delivery, 2, ',', '.') }}</td>
             </tr>
