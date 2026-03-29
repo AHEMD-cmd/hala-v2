@@ -76,9 +76,9 @@ class AdminPanelProvider extends PanelProvider
             ->authMiddleware([
                 Authenticate::class,
             ])
-            ->brandLogo(asset('logo.png'))
+            // ->brandLogo(asset('logo.png'))
             ->brandLogoHeight('40px')
-            ->favicon(asset('dashboard_logo.jpeg'))
+            // ->favicon(asset('dashboard_logo.jpeg'))
             ->sidebarCollapsibleOnDesktop()
             ->breadcrumbs(false)
             ->globalSearch(true)
