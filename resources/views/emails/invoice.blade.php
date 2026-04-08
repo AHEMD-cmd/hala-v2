@@ -94,8 +94,8 @@
     <div class="footer">
         <p><strong>Hala Wonen</strong></p>
         <p>Verrijn Stuartlaan 42 B, 2288 EM Rijswijk, Nederland</p>
-        <p>Tel: +31 68 614 1463 | Email: info@halawonen.nl</p>
-        <p>Website: <a href="https://halawonen.nl" style="color: white;">halawonen.nl</a></p>
+        <p>Tel: +31 68 614 1463 | Email: info@herd.com</p>
+        <p>Website: <a href="https://herd.com" style="color: white;">herd.com</a></p>
     </div>
 </body>
 </html>

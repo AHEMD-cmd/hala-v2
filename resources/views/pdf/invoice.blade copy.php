@@ -234,7 +234,7 @@
                     2288 EM Rijswijk<br>
                     Nederland<br>
                     Tel: +31 68 614 1463<br>
-                    Email: info@halawonen.nl
+                    Email: info@herd.com
                 </div>
             </div>
             <div class="header-right">
