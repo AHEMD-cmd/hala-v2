@@ -335,7 +335,7 @@
         <!-- Footer -->
         <div class="footer">
             Bedankt voor uw aankoop!<br>
-            Voor vragen kunt u contact met ons opnemen via info@halawonen.nl of +31 68 614 1463
+            Voor vragen kunt u contact met ons opnemen via info@herd.com of +31 68 614 1463
         </div>
     </div>
 </body>
