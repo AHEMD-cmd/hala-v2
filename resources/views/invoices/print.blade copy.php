@@ -254,7 +254,7 @@
         <!-- Header -->
         <div class="header">
             <div class="header-left">
-                <div class="company-name">Hala Wonen</div>
+                <div class="company-name">Herd</div>
                 <div class="company-details">
                     Verrijn Stuartlaan 42 B<br>
                     2288 EM Rijswijk<br>

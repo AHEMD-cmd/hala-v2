@@ -163,7 +163,7 @@
         <table>
             <tr>
                 <td class="header-left" style="margin-bottom: 40px;">
-                    <img src="{{ 'dashboard-logo.png' }}" class="logo" alt="Hala Wonen">
+                    <img src="{{ 'dashboard-logo.png' }}" class="logo" alt="Herd">
                 </td>
                 <td class="header-right">
                     BTW nr. : NL867887540B01<br>
@@ -299,7 +299,7 @@
         aansprakelijk voor eventuele schade in uw huis en aan uw eigendommen het product binnenhuis bezorgt De
         betaling dient plaats te vinden voordat wij de meubels uitladen. Vervoerkosten materiaal nemen wij niet retour.
         Indien er getakeld moet worden is de klant er verantwoordelijk voor, inclusief de kosten voor een takel. Op
-        deze verkoopovereenkomst zijn de Algemene Voorwaarden van de Hala Wonen van toepassing, waarvoor wij
+        deze verkoopovereenkomst zijn de Algemene Voorwaarden van de Herd van toepassing, waarvoor wij
         u verwijzen naar de achterzijde van deze verkoopovereenkomst.<br>
         <strong>Bij retour worden verzendkosten niet terugbetaald</strong>
     </div>

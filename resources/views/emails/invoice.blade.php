@@ -65,14 +65,14 @@
 </head>
 <body>
     <div class="header">
-        <h1>Hala Wonen</h1>
+        <h1>Herd</h1>
         <p>Bedankt voor uw aankoop!</p>
     </div>
 
     <div class="content">
         <h2>Beste {{ $invoice->customer->name }},</h2>
         
-        <p>Hartelijk dank voor uw recente aankoop bij Hala Wonen. In de bijlage vindt u uw factuur.</p>
+        <p>Hartelijk dank voor uw recente aankoop bij Herd. In de bijlage vindt u uw factuur.</p>
 
         <div class="invoice-details">
             <p><strong>Factuurnummer:</strong> {{ $invoice->invoice_number }}</p>
@@ -88,11 +88,11 @@
         <p>Als u vragen heeft over deze factuur, neem dan gerust contact met ons op.</p>
 
         <p>Met vriendelijke groet,<br>
-        <strong>Het team van Hala Wonen</strong></p>
+        <strong>Het team van Herd</strong></p>
     </div>
 
     <div class="footer">
-        <p><strong>Hala Wonen</strong></p>
+        <p><strong>Herd</strong></p>
         <p>Verrijn Stuartlaan 42 B, 2288 EM Rijswijk, Nederland</p>
         <p>Tel: +31 68 614 1463 | Email: info@herd.com</p>
         <p>Website: <a href="https://herd.com" style="color: white;">herd.com</a></p>

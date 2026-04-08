@@ -24,7 +24,7 @@ class InvoiceMail extends Mailable
     public function envelope(): Envelope
     {
         return new Envelope(
-            subject: "Factuur {$this->invoice->invoice_number} - Hala Wonen",
+            subject: "Factuur {$this->invoice->invoice_number} - Herd",
         );
     }
 
