@@ -166,12 +166,12 @@
                     <img src="{{ 'dashboard-logo.png' }}" class="logo" alt="Herd">
                 </td>
                 <td class="header-right">
-                    BTW nr. : NL867887540B01<br>
-                    KVK: 97044032<br>
-                    Verrijn Stuartlaan 42B<br>
-                    2288 EM Rijswijk<br>
-                    Tel : 0686141463<br>
-                    IBAN : NL17 INGB 0111 2416 42
+                    BTW nr. : NL867887543323<br>
+                    KVK: 97044032323<br>
+                    Viking asd 22k<br>
+                    2288 EM ssd<br>
+                    Tel : 010103232333<br>
+                    IBAN : NL17 INGB 0111 2416 33
                     ORDER NR : {{ $invoice->invoice_number }}
                 </td>
             </tr>
@@ -191,7 +191,7 @@
             <tr>
                 <td style="font-weight: bold;">STRAAT:</td>
                 <td>{{ $invoice->customer->address ?? '' }}</td>
-                <td style="font-weight: bold;">KLANT NAAM:</td>
+                <td style="font-weight: bold;">NAAM:</td>
                 <td>{{ $invoice->customer->name }}</td>
             </tr>
             <tr>
