@@ -78,7 +78,7 @@ class AdminPanelProvider extends PanelProvider
             ])
             // ->brandLogo(asset('logo.png'))
             ->brandLogoHeight('40px')
-            // ->favicon(asset('dashboard_logo.jpeg'))
+            ->favicon(null)
             ->sidebarCollapsibleOnDesktop()
             ->breadcrumbs(false)
             ->globalSearch(true)

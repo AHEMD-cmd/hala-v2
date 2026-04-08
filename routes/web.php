@@ -48,8 +48,3 @@ Route::get('/optimize-clear', function () {
     Artisan::call('optimize:clear');
     return 'cache cleared successfully!';
 });
-
-Route::get('/storage-link', function () {
-    Artisan::call('storage:link');
-    return 'storage linked successfully!';
-});
